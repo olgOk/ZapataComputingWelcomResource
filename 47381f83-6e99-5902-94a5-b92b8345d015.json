@@ -1,0 +1,3 @@
+{
+"welcome-to-orquestra-jfw7b-4040372972": {"class":"welcome-to-orquestra","id":"welcome-to-orquestra-jfw7b-4040372972","inputParam:command":"python3 main.py","inputParam:cpu":"1000m","inputParam:disk":"10Gi","inputParam:docker-image":"z-quantum-default","inputParam:docker-registry":"zapatacomputing","inputParam:docker-tag":"latest","inputParam:memory":"1024Mi","welcome":{"id":"welcome-to-orquestra-jfw7b-4040372972/welcome","message":"Welcome to Orquestra!","schema":"message","taskClass":"welcome-to-orquestra","taskId":"welcome-to-orquestra-jfw7b-4040372972","workflowId":"welcome-to-orquestra-jfw7b"},"workflowId":"welcome-to-orquestra-jfw7b"}
+}
